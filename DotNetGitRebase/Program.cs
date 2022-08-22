@@ -2,8 +2,9 @@
 Console.WriteLine("Hello, World!");
 
 MasterMethod();
+DotNetGitRebase.MasterCls.MasterClsMethod();
 
 static void MasterMethod()
 {
-    Console.WriteLine("Initial Master Method");
+    Console.WriteLine("Update Master Method From Master Commit 2");
 }
