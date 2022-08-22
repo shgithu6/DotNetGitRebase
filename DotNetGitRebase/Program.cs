@@ -3,6 +3,7 @@ Console.WriteLine("Hello, World!");
 
 MasterMethod();
 DotNetGitRebase.MasterCls.MasterClsMethod();
+DotNetGitRebase.FeatureOne.F1Method();
 
 static void MasterMethod()
 {
