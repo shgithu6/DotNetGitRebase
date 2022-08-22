@@ -2,8 +2,9 @@
 Console.WriteLine("Hello, World!");
 
 MasterMethod();
+DotNetGitRebase.FeatureOne.F1Method();
 
 static void MasterMethod()
 {
-    Console.WriteLine("Initial Master Method");
+    Console.WriteLine("Update Master Method From F1");
 }
