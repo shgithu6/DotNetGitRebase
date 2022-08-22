@@ -2,6 +2,7 @@
 Console.WriteLine("Hello, World!");
 
 MasterMethod();
+DotNetGitRebase.FeatureTwo.F2Method();
 
 static void MasterMethod()
 {
